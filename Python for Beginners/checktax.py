@@ -1,4 +1,4 @@
-price = input ('How much did you pay? ')
+price = input('How much did you pay? ')
 
 price = float(price)
 if price >= 1.00:

@@ -9,6 +9,6 @@ mom_age = (mom - age)
 print(f'\nHello {fn}! Your mom was {mom_age} when you where born and did your know that in the year {year} you will be 100 and in the year {number} you will be 1000\n')
 
 if age >= 50:
-    print('Yay, your old')
+    print("Yay, you're old")
 else:
-    print('Yay, your young')
+    print("Yay, you're young")
